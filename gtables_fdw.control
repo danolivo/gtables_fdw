@@ -1,0 +1,5 @@
+# gtables_fdw extension
+comment = 'Global tables'
+default_version = '0.1'
+module_pathname = '$libdir/gtables_fdw'
+relocatable = false
